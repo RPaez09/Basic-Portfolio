@@ -137,6 +137,7 @@ nav ul li:last-child a{
 
 .content.contact textarea {
     height: 200px;
+    max-width: 582px;
 }
 
 .content.contact .button {
